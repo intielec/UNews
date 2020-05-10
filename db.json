@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "date": "2020-05-10T18:25:43.511Z","autor": "Данил Симонов", "title": "Бизнес ответил на претензии владельцев ТЦ о коллапсе отрасли", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/8/23/755891093536238.jpg"},
-    { "id": 2, "date": "2020-05-10T10:17:43.511Z","autor": "Иван Иванов", "title": "Власти выделили на помощь малому и среднему бизнесу более 80 млрд руб.", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/7/82/755891048347827.jpg"},
-    { "id": 3, "date": "2020-05-10T25:12:43.511Z","autor": "Данил Симонов", "title": "Оборонный Промсвязьбанк распродал почти все запасы золота", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/3/56/755889500579563.jpg"}
+    { "id": 1, "date": "2020-05-10T18:25:43.511Z","autor": "Данил Симонов", "title": "Бизнес ответил на претензии владельцев ТЦ о коллапсе отрасли", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/8/23/755891093536238.jpg", "url": "https://www.rbc.ru/business/10/05/2020/5eb7de099a7947f666febce2?from=from_main"},
+    { "id": 2, "date": "2020-05-10T10:17:43.511Z","autor": "Иван Иванов", "title": "Власти выделили на помощь малому и среднему бизнесу более 80 млрд руб.", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/7/82/755891048347827.jpg", "url": "https://www.rbc.ru/business/10/05/2020/5eb7cc0a9a7947f12458b03b?from=from_main"},
+    { "id": 3, "date": "2020-05-10T25:12:43.511Z","autor": "Данил Симонов", "title": "Оборонный Промсвязьбанк распродал почти все запасы золота", "imageUrl": "https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/3/56/755889500579563.jpg", "url": "https://www.rbc.ru/finances/10/05/2020/5eb56f3a9a79472cda042ad1?from=from_main"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
