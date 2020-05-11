@@ -12,8 +12,13 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 3, "body": "some comment", "postId": 1 }
+    { "id": 4, "body": "some comment", "postId": 2 }
+    { "id": 5, "body": "some comment", "postId": 3 }
+    { "id": 6, "body": "some comment", "postId": 3 }
+    { "id": 7, "body": "some comment", "postId": 4 }
+    { "id": 8, "body": "some comment", "postId": 4 }
+    { "id": 9, "body": "some comment", "postId": 4 }
+    { "id": 10, "body": "some comment", "postId": 4 }
+  ]
 }
